@@ -9,3 +9,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpta2I4MHVxZ3N5cDV5a2FobjhnaGZhcXdpbDFyazA4dm8yZDY2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/enj50kao8gMfu/giphy.gif">
