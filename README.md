@@ -1,4 +1,4 @@
-<h2>Eae de boa? Sou Hiago Lima, seja bem-vindo ao meu perfil no Github 🐳</h2>
+<h2 style="text-align:center">Eae de boa? Sou Hiago Lima, seja bem-vindo ao meu perfil no Github 🐳</h2>
 <div>
   <a href = "https://github.com/HiagoLima01">
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=HiagoLima01&show_icons=true&theme=monokai">
