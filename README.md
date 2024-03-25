@@ -5,7 +5,7 @@
     <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoLima01&layout=compact&theme=monokai">
 </div>
 <div>
-  <a href = "https://www.linkedin.com/in/hiago-lima465/">
+  <a target="_blank" href="https://www.linkedin.com/in/hiago-lima465/">
     <img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
