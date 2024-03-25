@@ -1,6 +1,6 @@
 ## Eae de boa? Sou Hiago Lima, seja bem-vindo ao meu perfil no Github 🐳
 <div>
-  <img scr="https://github-readme-stats.vercel.app/api?username=HiagoLima01&theme=monokai&show_icons=true">
+  <img heigth=180em scr="https://github-readme-stats.vercel.app/api?username=HiagoLima01&theme=monokai&show_icons=true">
 </div>
 <!--
 **HiagoLima01/HiagoLima01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
